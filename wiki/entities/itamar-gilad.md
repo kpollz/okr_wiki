@@ -15,14 +15,14 @@ sources: ["raw/sources/okr-hieu-dung-lam-dung.md"]
 
 ## Tóm tắt
 
-Itamar Gilad là cựu Giám đốc sản phẩm chính và Trưởng phòng tăng trưởng tạI Gmail. Ông chia sẻ case study nổi tiếng về việc Gmail chuyển từ mục tiêu "thúc đẩy ngườI dùng sử dụng nhiều hơn" sang "thúc đẩy sự gắn kết vớI đúng loạI email" — dẫn đến dự án **Hộp thư đến theo tab** (Inbox tabs) và liên kết chéo vớI nhóm Android/iOS.
+Itamar Gilad là cựu Giám đốc sản phẩm chính và Trưởng phòng tăng trưởng tại Gmail. Ông chia sẻ case study nổi tiếng về việc Gmail chuyển từ mục tiêu "thúc đẩy người dùng sử dụng nhiều hơn" sang "thúc đẩy sự gắn kết với đúng loại email" — dẫn đến dự án **Hộp thư đến theo tab** (Inbox tabs) và liên kết chéo với nhóm Android/iOS.
 
 ## Case study Gmail
 
-- Ban đầu: muốn tăng mức độ sử dụng ngườI dùng thông thường để cạnh tranh vớI Facebook.
-- Nhận ra: Gmail và Facebook là sản phẩm khác nhau; câu hỏI đã sai.
-- Mục tiêu mớI: "NgườI dùng nhìn thấy email quan trọng nhất vớI họ trước".
-- Kết quả: dự án Hộp thư đến theo tab, hợp tác chéo nhóm Android/iOS, thuyết phục hàng trăm triệu ngườI dùng.
+- Ban đầu: muốn tăng mức độ sử dụng người dùng thông thường để cạnh tranh với Facebook.
+- Nhận ra: Gmail và Facebook là sản phẩm khác nhau; câu hỏi đã sai.
+- Mục tiêu mới: "Người dùng nhìn thấy email quan trọng nhất với họ trước".
+- Kết quả: dự án Hộp thư đến theo tab, hợp tác chéo nhóm Android/iOS, thuyết phục hàng trăm triệu người dùng.
 
 ## Liên kết
 

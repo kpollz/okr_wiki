@@ -1,7 +1,7 @@
 # Index — Mục lục Wiki
 
-Tệp này được cập nhật sau mỗI lần **INGEST**, **QUERY** (nếu lưu kết quả), hoặc **LINT**.  
-Dùng tệp này để nhanh chóng định vị trang liên quan khi trả lờI câu hỏI.
+Tệp này được cập nhật sau mỗi lần **INGEST**, **QUERY** (nếu lưu kết quả), hoặc **LiNT**.  
+Dùng tệp này để nhanh chóng định vị trang liên quan khi trả lời câu hỏi.
 
 ---
 
@@ -17,8 +17,8 @@ Dùng tệp này để nhanh chóng định vị trang liên quan khi trả lờ
 
 | Trang | Nguồn gốc | Ngày nhập | Tóm tắt |
 |-------|-----------|-----------|---------|
-| [[wiki/sources/okr-guide-measure-what-matters.md\|OKR Guide — Measure What Matters]] | `raw/sources/okr-guide-measure-what-matters.md` | 2026-04-19 | GiớI thiệu framework OKR, nguyên tắc và lỗi thường gặp |
-| [[wiki/sources/okr-hieu-dung-lam-dung.md\|OKRs — Hiểu đúng, Làm đúng]] | `raw/sources/okr-hieu-dung-lam-dung.md` | 2026-04-19 | Sách của Mai Xuân Đạt về triển khai OKRs tạI VN |
+| [[wiki/sources/okr-guide-measure-what-matters.md\|OKR Guide — Measure What Matters]] | `raw/sources/okr-guide-measure-what-matters.md` | 2026-04-19 | Giới thiệu framework OKR, nguyên tắc và lỗi thường gặp |
+| [[wiki/sources/okr-hieu-dung-lam-dung.md\|OKRs — Hiểu đúng, Làm đúng]] | `raw/sources/okr-hieu-dung-lam-dung.md` | 2026-04-19 | Sách của Mai Xuân Đạt về triển khai OKRs tại VN |
 
 ---
 
@@ -26,8 +26,8 @@ Dùng tệp này để nhanh chóng định vị trang liên quan khi trả lờ
 
 | Trang | Loại | Mô tả |
 |-------|------|-------|
-| [[wiki/entities/andy-grove.md\|Andy Grove]] | Nhân vật | Cựu CEO Intel, ngườI phát triển nền tảng OKR |
-| [[wiki/entities/john-doerr.md\|John Doerr]] | Nhân vật | Nhà đầu tư Kleiner Perkins, ngườI phổ biến OKR tạI Google |
+| [[wiki/entities/andy-grove.md\|Andy Grove]] | Nhân vật | Cựu CEO Intel, người phát triển nền tảng OKR |
+| [[wiki/entities/john-doerr.md\|John Doerr]] | Nhân vật | Nhà đầu tư Kleiner Perkins, người phổ biến OKR tại Google |
 | [[wiki/entities/mai-xuan-dat.md\|Mai Xuân Đạt]] | Nhân vật | CEO SEONGON & VNOKRs, tác giả sách OKRs VN |
 | [[wiki/entities/seongon.md\|SEONGON]] | Tổ chức | Công ty Google Marketing Agency, case study OKRs |
 | [[wiki/entities/vnokrs.md\|VNOKRs]] | Công cụ | Phần mềm quản lý OKRs do Mai Xuân Đạt tạo ra |
@@ -43,18 +43,18 @@ Dùng tệp này để nhanh chóng định vị trang liên quan khi trả lờ
 | Trang | Lĩnh vực | Mô tả |
 |-------|----------|-------|
 | [[wiki/concepts/objectives-and-key-results.md\|Objectives and Key Results (OKR)]] | Framework quản trị | Hệ thống đặt mục tiêu aggressive và đo lường kết quả |
-| [[wiki/concepts/cfrs.md\|CFRs — Conversations, Feedback, Recognition]] | Quản lý & Văn hóa | Bộ ba đối tác của OKR để duy trì hIệu suất |
+| [[wiki/concepts/cfrs.md\|CFRs — Conversations, Feedback, Recognition]] | Quản lý & Văn hóa | Bộ ba đối tác của OKR để duy trì hiệu suất |
 | [[wiki/concepts/okrs-3-chieu.md\|OKRs 3 chiều — 10 bước]] | Phương pháp triển khai | Phương pháp 10 bước của Mai Xuân Đạt |
 | [[wiki/concepts/moonshot-okrs.md\|Moonshot OKRs]] | Khái niệm OKR | OKRs tham vọng / kéo giãn; đạt ~70% là thành công |
 | [[wiki/concepts/okrs-scoring.md\|OKRs Scoring]] | Phương pháp đánh giá | Điểm phân loại 0.0–1.0 (đỏ / đen / xám) |
-| [[wiki/concepts/okrs-vs-kpis.md\|OKRs vs KPIs]] | So sánh framework | KPIs = sức khỏe; OKRs = GYM thúc đẩy tiến bộ |
-| [[wiki/concepts/okrs-vs-bsc.md\|OKRs vs BSC]] | So sánh framework | So sánh vớI Balanced Scorecard |
+| [[wiki/concepts/okrs-vs-kpis.md\|OKRs vs KPis]] | So sánh framework | KPis = sức khỏe; OKRs = GYM thúc đẩy tiến bộ |
+| [[wiki/concepts/okrs-vs-bsc.md\|OKRs vs BSC]] | So sánh framework | So sánh với Balanced Scorecard |
 
 ---
 
 ## Truy vấn đã lưu (Queries)
 
-| Trang | Câu hỏI | Ngày tạo |
+| Trang | Câu hỏi | Ngày tạo |
 |-------|---------|----------|
 | — | — | — |
 

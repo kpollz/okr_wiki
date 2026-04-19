@@ -15,39 +15,39 @@ sources: ["raw/sources/okr-hieu-dung-lam-dung.md"]
 
 ## Định nghĩa
 
-**Moonshot** (Google) hay **OKRs tham vọng / kéo giãn** là những mục tiêu đầy thách thức, tham vọng vượt ra ngoàI khả năng hiện tạI rõ ràng của tổ chức. Khác vớI OKRs cam kết (committed OKRs) — bắt buộc phảI đạt 100% — Moonshot OKRs chấp nhận thất bạI một phần và coi **đạt 70%** là thành công.
+**Moonshot** (Google) hay **OKRs tham vọng / kéo giãn** là những mục tiêu đầy thách thức, tham vọng vượt ra ngoài khả năng hiện tại rõ ràng của tổ chức. Khác với OKRs cam kết (committed OKRs) — bắt buộc phải đạt 100% — Moonshot OKRs chấp nhận thất bại một phần và coi **đạt 70%** là thành công.
 
-> "Nếu bạn muốn đI tớI sao Hỏa, có thể bạn sẽ không tớI nơi nhưng ít nhất bạn sẽ tớI được mặt trăng."
+> "Nếu bạn muốn đi tới sao Hỏa, có thể bạn sẽ không tới nơi nhưng ít nhất bạn sẽ tới được mặt trăng."
 
-## Phân biệt hai loạI OKRs
+## Phân biệt hai loại OKRs
 
 | | OKRs Cam kết (Committed) | OKRs Tham vọng (Moonshot / Stretch) |
 |---|---|---|
-| Mức độ khó | Khó nhưng khả thI | Tham vọng, có thể vượt quá khả năng hiện tạI |
+| Mức độ khó | Khó nhưng khả thi | Tham vọng, có thể vượt quá khả năng hiện tại |
 | Ngưỡng thành công | 100% | ~70% |
-| Ứng dụng | Vận hành quan trọng, tuân thủ | ĐổI mớI, tăng trưởng đột phá |
-| Rủi ro tâm lý | Thấp | Cao nếu bị gắn vớI lương thưởng |
+| Ứng dụng | Vận hành quan trọng, tuân thủ | Đổi mới, tăng trưởng đột phá |
+| Rủi ro tâm lý | Thấp | Cao nếu bị gắn với lương thưởng |
 
 ## Tại sao Moonshot quan trọng?
 
-- **Tiềm năng con ngườI > những gì ta tưởng:** Lý thuyết **Central Governor** (Thống đốc Trung Tâm) cho thấy bộ não bảo tồn năng lượng trước khi cơ thể thực sự cạn kiệt. Các vận động viên có thể tăng tốc ở phút cuốI vì não "nhả" hạn chế khi nhìn thấy vạch đích.
-- **Hiệu ứng giả dược:** Nghiên cứu tạI ĐạI học Canterbury Christ Church cho thấy niềm tin vào caffeine giả vẫn làm tăng hiệu suất đạp xe — sự khác biệt đến từ niềm tin, không phảI năng lượng thực.
+- **Tiềm năng con người > những gì ta tưởng:** Lý thuyết **Central Governor** (Thống đốc Trung Tâm) cho thấy bộ não bảo tồn năng lượng trước khi cơ thể thực sự cạn kiệt. Các vận động viên có thể tăng tốc ở phút cuối vì não "nhả" hạn chế khi nhìn thấy vạch đích.
+- **Hiệu ứng giả dược:** Nghiên cứu tại Đại học Canterbury Christ Church cho thấy niềm tin vào caffeine giả vẫn làm tăng hiệu suất đạp xe — sự khác biệt đến từ niềm tin, không phải năng lượng thực.
 - **Không tham vọng = lãng phí OKRs:** Nếu chỉ dùng OKRs để "quy củ hơn" mà không đặt mục tiêu kéo giãn, tổ chức bỏ lỡ giá trị lớn nhất của framework.
 
 ## Ví dụ thực tế
 
-- **Câu chuyện Hưng (Trưởng phòng Marketing SEONGON):** Khi được khuyến khích đặt mục tiêu cao hơn mà **không bị phạt** nếu không đạt, team thử nghiệm nhiều cách mớI. CuốI cùng thất bạI mục tiêu nhưng đạt kết quả tốt hơn năm trước.
-- **YouTube:** Mục tiêu 4 năm — đạt 1 tỷ giờ xem mỗI ngày (theo [[Felipe Castro]]).
+- **Câu chuyện Hưng (Trưởng phòng Marketing SEONGON):** Khi được khuyến khích đặt mục tiêu cao hơn mà **không bị phạt** nếu không đạt, team thử nghiệm nhiều cách mới. Cuối cùng thất bại mục tiêu nhưng đạt kết quả tốt hơn năm trước.
+- **YouTube:** Mục tiêu 4 năm — đạt 1 tỷ giờ xem mỗi ngày (theo [[Felipe Castro]]).
 
 ## Lưu ý khi áp dụng
 
-- **Không gắn trực tiếp vớI lương thưởng:** Thưởng/phạt giết chết sự nỗ lực, tạo ra "kẻ đàm phán" đặt mục tiêu an toàn.
+- **Không gắn trực tiếp với lương thưởng:** Thưởng/phạt giết chết sự nỗ lực, tạo ra "kẻ đàm phán" đặt mục tiêu an toàn.
 - **Không quá tham vọng:** Mục tiêu mà chắc chắn 100% không thể hoàn thành sẽ gây nản chí.
 - **Kỳ vọng hợp lý:** Nên kỳ vọng đạt 70–80% khi đặt ra Moonshot.
 
 ## Liên kết
 
 - [[Objectives and Key Results (OKR)]] — framework chứa Moonshot.
-- [[John Doerr]] — ngườI phổ biến khái niệm Moonshot tạI Google.
+- [[John Doerr]] — người phổ biến khái niệm Moonshot tại Google.
 - [[Felipe Castro]] — chuyên gia phân biệt OKRs chiến lược / chiến thuật.
-- [[Mai Xuân Đạt]] — chia sẻ case study Moonshot tạI SEONGON.
+- [[Mai Xuân Đạt]] — chia sẻ case study Moonshot tại SEONGON.

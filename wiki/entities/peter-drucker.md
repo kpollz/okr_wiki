@@ -14,7 +14,7 @@ sources: ["raw/sources/okr-hieu-dung-lam-dung.md"]
 
 ## Tóm tắt
 
-Peter Drucker (1909–2005) được xem là "cha đẻ của quản trình học hiện đạI". Ông là ngườI sáng tạo ra khái niệm **MBOs (Management By Objectives — Quản trị bằng mục tiêu)**, một tiền thân của OKRs. MBOs sử dụng mô hình **xếp tầng (cascading)** từ trên xuống, trong đó mục tiêu được truyền đạt qua từng cấp quản lý.
+Peter Drucker (1909–2005) được xem là "cha đẻ của quản trình học hiện đại". Ông là người sáng tạo ra khái niệm **MBOs (Management By Objectives — Quản trị bằng mục tiêu)**, một tiền thân của OKRs. MBOs sử dụng mô hình **xếp tầng (cascading)** từ trên xuống, trong đó mục tiêu được truyền đạt qua từng cấp quản lý.
 
 ## So sánh MBOs và OKRs
 
@@ -27,7 +27,7 @@ Peter Drucker (1909–2005) được xem là "cha đẻ của quản trình họ
 
 ## Trích dẫn
 
-> "Đó chỉ là một công cụ, không phảI là một giảI pháp xuất sắc để cảI thiện sự quản lý kém hIệu quả của doanh nghiệp." — Peter Drucker về MBOs.
+> "Đó chỉ là một công cụ, không phải là một giải pháp xuất sắc để cải thiện sự quản lý kém hiệu quả của doanh nghiệp." — Peter Drucker về MBOs.
 
 ## Liên kết
 

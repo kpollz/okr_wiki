@@ -23,7 +23,7 @@ John Doerr là nhà đầu tư nổi tiếng tại Kleiner Perkins, đặc biệ
 - Trực tiếp huấn luyện lãnh đạo Google áp dụng OKR từ giai đoạn startup.
 - Hệ thống hóa và phổ biến OKR ra toàn cầu qua sách và diễn thuyết.
 - Công thức viết OKRs: *"I will (Objective) as measured by (this set of Key Results)."*
-- Goal Summit 2015: *"OKRs không cần phảI được phân cấp theo thứ bậc... Không có quy trình xếp tầng chính thức."*
+- Goal Summit 2015: *"OKRs không cần phải được phân cấp theo thứ bậc... Không có quy trình xếp tầng chính thức."*
 
 ## Liên kết
 

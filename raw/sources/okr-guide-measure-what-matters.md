@@ -15,7 +15,7 @@ Objectives and Key Results (OKR) là framework thiết lập mục tiêu đượ
 
 ### Key Results (Kết quả then chốt)
 - Là **how** — cách đo lường tiến độ đến mục tiêu.
-- Phải cụ thể, có thờI hạn, aggressive nhưng khả thi.
+- Phải cụ thể, có thời hạn, aggressive nhưng khả thi.
 - Thường có 3-5 KRs cho mỗi Objective.
 
 ## Các nguyên tắc quan trọng
@@ -28,22 +28,22 @@ Objectives and Key Results (OKR) là framework thiết lập mục tiêu đượ
 
 ## Ví dụ
 
-**Objective:** Tạo ra trải nghiệm khách hàng tuyệt vờI  
+**Objective:** Tạo ra trải nghiệm khách hàng tuyệt vời  
 **KRs:**
-- Giảm thờI gian phản hồI support xuống dướI 2 giờ
+- Giảm thời gian phản hồi support xuống dưới 2 giờ
 - Đạt NPS ≥ 50
 - Giảm churn rate 5%
 
 ## CFRs — Đối tác của OKR
 
 OKRs không hiệu quả nếu thiếu **Conversations, Feedback, Recognition (CFRs)**:
-- **Conversations:** Đối thoạI thường xuyên giữa quản lý và nhân viên.
-- **Feedback:** Phản hồI hai chiều liên tục.
-- **Recognition:** Ghi nhận thành tích kịp thờI.
+- **Conversations:** Đối thoại thường xuyên giữa quản lý và nhân viên.
+- **Feedback:** Phản hồi hai chiều liên tục.
+- **Recognition:** Ghi nhận thành tích kịp thời.
 
 ## Lỗi thường gặp
 
 - Đặt quá nhiều OKRs (nên tối đa 3-5 Objectives).
 - Biến OKRs thành danh sách việc cần làm (to-do list).
-- Không theo dõI và điều chỉnh giữa chu kỳ.
+- Không theo dõi và điều chỉnh giữa chu kỳ.
 - Đặt mục tiêu dễ 100% (sandbagging).
