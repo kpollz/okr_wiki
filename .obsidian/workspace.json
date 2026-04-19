@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "abdec1f8d256fc25",
+    "type": "split",
+    "children": [
+      {
+        "id": "f65d96fdc6658331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7dda0cc9e9abd77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "43ae1fa177814521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AGENTS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AGENTS"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d41214006dd265de",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb08664bd2026170",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf14bc7c4b90f3a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "deebd3f41713773d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce65670e92f0b006",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39cb7067bd73ddca",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed4a9fe011815531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f36c2c39d3ed4949",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "c2acfa59312fed28",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "6a3233b9edf77b50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dda214ab94f87b6f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "52f446c6e737a521",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "43ae1fa177814521",
+  "lastOpenFiles": [
+    "wiki/meta/lint-report.md",
+    "wiki/meta/lint-files.txt",
+    "wiki/meta/lint-links-raw.txt",
+    "wiki/sources/okr-hieu-dung-lam-dung.md",
+    "Felipe Castro.md",
+    "Andy Grove.md",
+    "index.md",
+    "README.md",
+    "AGENTS.md",
+    "wiki/entities/peter-drucker.md",
+    "wiki/entities/mai-xuan-dat.md",
+    "wiki/entities/itamar-gilad.md",
+    "wiki/entities/laszlo-bock.md",
+    "wiki/entities/felipe-castro.md",
+    "wiki/concepts/okrs-vs-bsc.md",
+    "wiki/concepts/okrs-vs-kpis.md",
+    "wiki/concepts/okrs-scoring.md",
+    "wiki/concepts/moonshot-okrs.md",
+    "wiki/concepts/okrs-3-chieu.md",
+    "wiki/entities/vnokrs.md",
+    "wiki/entities/seongon.md",
+    "wiki/synthesis/overview.md",
+    "wiki/meta/ingest-draft-okr-hieu-dung.md",
+    "raw/sources/okr-hieu-dung-lam-dung.md",
+    "wiki/sources/okr-guide-measure-what-matters.md",
+    "raw/sources/okr-guide-measure-what-matters.md",
+    "Welcome.md",
+    "raw/sources/OKRs - Hieu Dung, Lam Dung - Mai Xuan Dat.pdf",
+    "wiki/concepts/cfrs.md",
+    "queries",
+    "wiki/synthesis",
+    "wiki/entities",
+    "wiki/sources",
+    "wiki/meta",
+    "wiki/concepts",
+    "wiki"
+  ]
+}
