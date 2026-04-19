@@ -13,26 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "README"
             }
           },
           {
             "id": "43ae1fa177814521",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AGENTS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AGENTS"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -200,7 +196,16 @@
   },
   "active": "43ae1fa177814521",
   "lastOpenFiles": [
+    "wiki/wiki/sources/okr-hieu-dung-lam-dung.md",
+    "wiki/wiki/sources",
+    "wiki/wiki",
+    "wiki/raw/sources/okr-hieu-dung-lam-dung.md",
+    "wiki/raw/sources",
+    "wiki/raw",
+    "Welcome.md",
     "wiki/meta/lint-report.md",
+    "wiki/meta/ingest-draft-okr-hieu-dung.md",
+    "AGENTS.md",
     "wiki/meta/lint-files.txt",
     "wiki/meta/lint-links-raw.txt",
     "wiki/sources/okr-hieu-dung-lam-dung.md",
@@ -208,7 +213,6 @@
     "Andy Grove.md",
     "index.md",
     "README.md",
-    "AGENTS.md",
     "wiki/entities/peter-drucker.md",
     "wiki/entities/mai-xuan-dat.md",
     "wiki/entities/itamar-gilad.md",
@@ -222,19 +226,11 @@
     "wiki/entities/vnokrs.md",
     "wiki/entities/seongon.md",
     "wiki/synthesis/overview.md",
-    "wiki/meta/ingest-draft-okr-hieu-dung.md",
     "raw/sources/okr-hieu-dung-lam-dung.md",
     "wiki/sources/okr-guide-measure-what-matters.md",
-    "raw/sources/okr-guide-measure-what-matters.md",
-    "Welcome.md",
     "raw/sources/OKRs - Hieu Dung, Lam Dung - Mai Xuan Dat.pdf",
-    "wiki/concepts/cfrs.md",
     "queries",
     "wiki/synthesis",
-    "wiki/entities",
-    "wiki/sources",
-    "wiki/meta",
-    "wiki/concepts",
-    "wiki"
+    "wiki/entities"
   ]
 }

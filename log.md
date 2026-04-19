@@ -61,3 +61,21 @@ Loại thao tác: `ingest`, `query`, `lint`, `create`, `update`, `delete`
 - Phát hiện 2 file rỗng ở root: `Andy Grove.md` và `Felipe Castro.md` (0 byte).
 - Nguyên nhân: Có thể do lỗI encoding trong quá trình ingest.
 - Hành động: Đã xóa.
+
+## [2026-04-19] lint | Kiểm tra sức khỏe toàn project (LINT logic mớI)
+- Phạm vi: Toàn bộ project (root + wiki + raw + queries + .obsidian)
+- Báo cáo: [[wiki/meta/lint-report.md]]
+- Hành động:
+  - Cập nhật `AGENTS.md` — mở rộng LINT ra toàn project (thêm bước 7-11).
+  - Xóa `Welcome.md` (file mặc định Obsidian).
+  - Xóa `Andy Grove.md` và `Felipe Castro.md` (0 byte ở root).
+- Kết quả:
+  - Root: sạch, chỉ còn 4 file hợp lệ.
+  - `raw/sources` ↔ `wiki/sources`: đồng bộ (2/2 nguồn chính).
+  - `queries/`: rỗng.
+  - `.obsidian/`: không có file rác.
+  - Wiki: không mâu thuẫn, không orphan, không missing link, frontmatter chuẩn.
+
+## [2026-04-19] lint | Phát hiện & xóa thư mục lồi sai
+- Phát hiện `wiki/wiki/sources/okr-hieu-dung-lam-dung.md` (0 byte) — thư mục lồI sai do lỗI đường dẫn trong quá trình ingest.
+- Hành động: **Đã xóa toàn bộ `wiki/wiki/`**.
